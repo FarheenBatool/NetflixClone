@@ -1,9 +1,11 @@
 
+import './App.scss';
+import Header from './Components/Header';
 
 function App() {
   return (
     <>
-    <h1>Hello Netflix </h1>
+    <Header/>
     </>
   );
 }
